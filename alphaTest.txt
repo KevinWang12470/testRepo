@@ -1,4 +1,4 @@
 hello world, this is a test file for my test repo.
 
-<<<<<<< HEAD
+
 This is the line that should be here. (From somethingActuallyNew branch)
