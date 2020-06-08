@@ -1,1 +1,3 @@
 hello world, this is a test file for my test repo.
+
+This is the line that should be here. (From somethingNew branch)
